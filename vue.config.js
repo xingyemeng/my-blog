@@ -7,5 +7,8 @@ module.exports = {
                 jQuery: "jquery"
             })
         ]
+    },
+    devServer: {
+        open: true
     }
 }
